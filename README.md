@@ -23,11 +23,14 @@ Uma instituição de ensino identificou a oportunidade de aplicar inteligência 
 ### 1.3 Diagrama de Contexto (C4 Nível 1)
 <img width="1200" height="860" alt="EduVerse_C4_Diagrama_Contexto" src="https://github.com/user-attachments/assets/788486ff-8123-48aa-a904-72f81e894336" />
 
-Disponível em: https://github.com/FranthescaAssis/eduverse-decision-architect/blob/main/diagrams/EduVerse_C4_Diagrama_Contexto.png
-
 ### 1.4 Classificação da Estratégia
--   **Classificação:** [Conservadora / Balanceada / Ousada]
--   **Justificativa:** [Explique em 5 linhas o porquê desta escolha em relação ao risco, inovação e maturidade tecnológica. Referencie o Capítulo 1 do Pressman sobre a natureza do software, se pertinente].
+-   **Classificação:** Balanceada
+-   **Justificativa:** A estratégia balanceada foi adotada porque o EduVerse precisa inovar — com personalização por IA e arquitetura de microsserviços — sem assumir riscos que comprometam os prazos e a capacidade operacional de uma instituição de ensino em transformação digital. Como Pressman destaca no Capítulo 1 de Engenharia de Software (2021), o software possui natureza dual: é simultaneamente produto e veículo de entrega de valor. Isso exige decisões que equilibrem solidez técnica e agilidade evolutiva. 
+Adotar uma postura Conservadora inviabilizaria a personalização via IA e a escalabilidade exigida. Uma postura ousada — com tecnologias de ponta sem maturidade comprovada — elevaria o risco de atrasos e custos imprevistos. A abordagem balanceada permite entregar valor incremental (MVP → escala), com tecnologias maduras como React, Kubernetes e serviços gerenciados de ML, preservando a capacidade de evolução futura.
+
+### 1.5 Anexo A: ADR-001
+![ADR_001_page-0001](https://github.com/user-attachments/assets/08f21cc9-1341-48b6-85ab-6286249c064e)
+![ADR_001_page-0002](https://github.com/user-attachments/assets/48121692-8d70-4831-8618-12e0254477b4)
 
 ---
 
