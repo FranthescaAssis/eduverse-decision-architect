@@ -1,17 +1,19 @@
 # EduVerse: Mini Projeto "O Arquiteto Decisor" (v4)
 
-**Aluno:** Franthesca Assis Pereira | **Matrícula:** 2321041
+**Aluno:** Franthesca Assis Pereira 
+
+**Matrícula:** 2321041
+
 **Link do Repositório GitHub (Scaffolding):** https://github.com/FranthescaAssis/eduverse-decision-architect.git
 
 ---
 
 ## 🟢 CICLO 1: Visão e Requisitos (Fase 1)
-Uma instituição de ensino identificou a oportunidade de aplicar inteligência artificial ao mercado da educação online. O modelo educacional tradicional — baseado em conteúdos lineares e avaliações pontuais — não atende à diversidade de ritmos e estilos de aprendizagem dos estudantes, resultando em baixo engajamento e altas taxas de evasão.
-O sistema EduVerse propõe adaptar o ensino ao perfil individual de cada aluno, oferecendo trilhas de aprendizado personalizadas, avaliações dinâmicas e feedback instantâneo. A plataforma utilizará IA para identificar lacunas de conhecimento e recomendar conteúdos adequados, integrando-se a sistemas de gestão acadêmica (LMS) já existentes e sendo acessível em múltiplos dispositivos. Os usuários principais são: alunos, professores/tutores e administradores institucionais.
-
 
 ### 1.1 Resumo do Cenário de Negócio
-[Descreva em até 10 linhas o problema que sua arquitetura visa resolver. Qual é o contexto de negócio? Quem são os usuários principais?]
+Uma instituição de ensino identificou a oportunidade de aplicar inteligência artificial ao mercado da educação online. O modelo educacional tradicional — baseado em conteúdos lineares e avaliações pontuais — não atende à diversidade de ritmos e estilos de aprendizagem dos estudantes, resultando em baixo engajamento e altas taxas de evasão.
+
+O sistema EduVerse propõe adaptar o ensino ao perfil individual de cada aluno, oferecendo trilhas de aprendizado personalizadas, avaliações dinâmicas e feedback instantâneo. A plataforma utilizará IA para identificar lacunas de conhecimento e recomendar conteúdos adequados, integrando-se a sistemas de gestão acadêmica (LMS) já existentes e sendo acessível em múltiplos dispositivos. Os usuários principais são: alunos (acesso às trilhas e avaliações), professores/tutores (criação e monitoramento de conteúdo) e administradores institucionais (gestão de usuários e relatórios).
 
 ### 1.2 Atributos de Qualidade (RNFs) Priorizados
 [Liste e justifique 5 Requisitos Não Funcionais (RNFs) que são críticos para o sucesso do seu sistema, baseando-se no cenário de negócio. Ex: Desempenho, Segurança, Escalabilidade, Usabilidade, Manutenibilidade, etc.]
