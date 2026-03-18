@@ -14,12 +14,11 @@
 Uma instituição de ensino identificou a oportunidade de aplicar inteligência artificial ao mercado da educação online. O modelo educacional tradicional — baseado em conteúdos lineares e avaliações pontuais — não atende à diversidade de ritmos e estilos de aprendizagem dos estudantes, resultando em baixo engajamento e altas taxas de evasão. O sistema EduVerse propõe adaptar o ensino ao perfil individual de cada aluno, oferecendo trilhas de aprendizado personalizadas, avaliações dinâmicas e feedback instantâneo. A plataforma utilizará IA para identificar lacunas de conhecimento e recomendar conteúdos adequados, integrando-se a sistemas de gestão acadêmica (LMS) já existentes e sendo acessível em múltiplos dispositivos. Os usuários principais são: alunos (acesso às trilhas e avaliações), professores/tutores (criação e monitoramento de conteúdo) e administradores institucionais (gestão de usuários e relatórios).
 
 ### 1.2 Atributos de Qualidade (RNFs) Priorizados
-[Liste e justifique 5 Requisitos Não Funcionais (RNFs) que são críticos para o sucesso do seu sistema, baseando-se no cenário de negócio. Ex: Desempenho, Segurança, Escalabilidade, Usabilidade, Manutenibilidade, etc.]
-1.  **[Atributo 1]:** [Justificativa de prioridade baseada no negócio e no impacto técnico].
-2.  **[Atributo 2]:** [Justificativa de prioridade baseada no negócio e no impacto técnico].
-3.  **[Atributo 3]:** [Justificativa de prioridade baseada no negócio e no impacto técnico].
-4.  **[Atributo 4]:** [Justificativa de prioridade baseada no negócio e no impacto técnico].
-5.  **[Atributo 5]:** [Justificativa de prioridade baseada no negócio e no impacto técnico].
+1.  **Escalabilidade:** O sistema precisa suportar crescimento no número de usuários simultâneos, processar análises de dados em massa e incorporar atualizações tecnológicas sem reestruturação completa. Plataformas educacionais enfrentam picos de acesso em períodos de avaliação.
+2.  **Performance:** Respostas lentas afetam diretamente a experiência de aprendizado e aumentam a taxa de abandono. A otimização do uso de recursos de hardware e a entrega eficiente de conteúdo multimídia são requisitos essenciais.
+3.  **Manutenibilidade:** O motor de IA e as trilhas pedagógicas precisam evoluir continuamente. A arquitetura deve permitir atualização de módulos independentes sem impacto no restante do sistema, garantindo modularidade e qualidade de código.
+4.  **Compatibilidade:** O EduVerse deve integrar-se com LMS externos (Moodle, Canvas) via padrões abertos (SCORM/xAPI) e operar corretamente nos principais navegadores e sistemas operacionais móveis, evitando dependência de tecnologia proprietária.
+5.  **Usabilidade:** A interface deve ser intuitiva e acessível para perfis variados — do estudante do ensino médio ao docente universitário.                     Uma experiência fluida reduz a curva de aprendizado e contribui diretamente para a retenção dos usuários na plataforma.
 
 ### 1.3 Diagrama de Contexto (C4 Nível 1)
 [Insira aqui a imagem do seu Diagrama de Contexto (C4 Nível 1). Este diagrama deve mostrar o sistema como uma caixa preta e suas interações com usuários e outros sistemas externos. **Recomendado: Salvar o diagrama em `/diagrams` no GitHub e referenciar o link da imagem aqui.**]
