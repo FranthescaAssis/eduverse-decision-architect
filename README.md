@@ -21,7 +21,8 @@ Uma instituição de ensino identificou a oportunidade de aplicar inteligência 
 5.  **Usabilidade:** A interface deve ser intuitiva e acessível para perfis variados — do estudante do ensino médio ao docente universitário.                     Uma experiência fluida reduz a curva de aprendizado e contribui diretamente para a retenção dos usuários na plataforma.
 
 ### 1.3 Diagrama de Contexto (C4 Nível 1)
-[Insira aqui a imagem do seu Diagrama de Contexto (C4 Nível 1). Este diagrama deve mostrar o sistema como uma caixa preta e suas interações com usuários e outros sistemas externos. **Recomendado: Salvar o diagrama em `/diagrams` no GitHub e referenciar o link da imagem aqui.**]
+<img width="1200" height="860" alt="EduVerse_C4_Diagrama_Contexto" src="https://github.com/user-attachments/assets/788486ff-8123-48aa-a904-72f81e894336" />
+Disponível em: https://github.com/FranthescaAssis/eduverse-decision-architect/blob/main/diagrams/EduVerse_C4_Diagrama_Contexto.png
 
 ### 1.4 Classificação da Estratégia
 -   **Classificação:** [Conservadora / Balanceada / Ousada]
