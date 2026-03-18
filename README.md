@@ -1,12 +1,14 @@
 # EduVerse: Mini Projeto "O Arquiteto Decisor" (v4)
 
-**Aluno:** [Seu Nome Completo] | **Matrícula:** [Sua Matrícula]
-**Link do Repositório GitHub (Scaffolding):** [Link do seu repositório GitHub, ex: `https://github.com/seu-usuario/seu-projeto-arquitetura`]
+**Aluno:** Franthesca Assis Pereira | **Matrícula:** 2321041
+**Link do Repositório GitHub (Scaffolding):** https://github.com/FranthescaAssis/eduverse-decision-architect.git
 
 ---
 
 ## 🟢 CICLO 1: Visão e Requisitos (Fase 1)
-*Preencher e entregar no AVA ao final do Ciclo 1.*
+Uma instituição de ensino identificou a oportunidade de aplicar inteligência artificial ao mercado da educação online. O modelo educacional tradicional — baseado em conteúdos lineares e avaliações pontuais — não atende à diversidade de ritmos e estilos de aprendizagem dos estudantes, resultando em baixo engajamento e altas taxas de evasão.
+O sistema EduVerse propõe adaptar o ensino ao perfil individual de cada aluno, oferecendo trilhas de aprendizado personalizadas, avaliações dinâmicas e feedback instantâneo. A plataforma utilizará IA para identificar lacunas de conhecimento e recomendar conteúdos adequados, integrando-se a sistemas de gestão acadêmica (LMS) já existentes e sendo acessível em múltiplos dispositivos. Os usuários principais são: alunos, professores/tutores e administradores institucionais.
+
 
 ### 1.1 Resumo do Cenário de Negócio
 [Descreva em até 10 linhas o problema que sua arquitetura visa resolver. Qual é o contexto de negócio? Quem são os usuários principais?]
