@@ -22,6 +22,7 @@ Uma instituição de ensino identificou a oportunidade de aplicar inteligência 
 
 ### 1.3 Diagrama de Contexto (C4 Nível 1)
 <img width="1200" height="860" alt="EduVerse_C4_Diagrama_Contexto" src="https://github.com/user-attachments/assets/788486ff-8123-48aa-a904-72f81e894336" />
+
 Disponível em: https://github.com/FranthescaAssis/eduverse-decision-architect/blob/main/diagrams/EduVerse_C4_Diagrama_Contexto.png
 
 ### 1.4 Classificação da Estratégia
