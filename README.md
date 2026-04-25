@@ -21,7 +21,7 @@ Uma instituição de ensino identificou a oportunidade de aplicar inteligência 
 5.  **Usabilidade:** A interface deve ser intuitiva e acessível para perfis variados — do estudante do ensino médio ao docente universitário.                     Uma experiência fluida reduz a curva de aprendizado e contribui diretamente para a retenção dos usuários na plataforma.
 
 ### 1.3 Diagrama de Contexto (C4 Nível 1)
-<img width="1200" height="860" alt="EduVerse_C4_Diagrama_Contexto" src="https://github.com/user-attachments/assets/788486ff-8123-48aa-a904-72f81e894336" />
+<img width="1536" height="1024" alt="EduVerse_C4_Nivel1_Diagrama_Contexto" src="https://github.com/user-attachments/assets/252143cc-5039-4990-9c49-2306b4073673" />
 
 ### 1.4 Classificação da Estratégia
 -   **Classificação:** Balanceada
